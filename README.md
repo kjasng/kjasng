@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**kjasng/kjasng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ᐕ)ﾉ
+Hi, I'm Kjas Nguyen. I'm freshman at Hanoi Vocational College of Technology.
+- Name: Nguyen Manh
+- Loves: Pet, Game, Coding, etc...
+- Major: Computer Science
+- Dream role: Frontend Developer, Fullstack Developer, DevOps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acknowledgements (；´Д｀)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ps)](https://skillicons.dev)
+
+- [HTML, CSS (responsive): NFT Marketplace](https://nft-marketplace-sooty-one.vercel.app/)
+- [Javascript: Digital Clock (GTM +07:00)](https://digital-clock-kjasngs-projects.vercel.app/)
+- [Javascript: Birthday Countdown](https://birthdaycountdownnn.vercel.app/)
+- [Javascript: Weather App (30 Days, 30 Javascript Projects)](https://weather-app-kjasngs-projects.vercel.app/)
+- [Javascript: Todo List (30 Days, 30 Javascript Projects)](https://30-day-30-js-projects-kjasngs-projects.vercel.app/)
+
+
+#### Thanks for reading guys! :3
