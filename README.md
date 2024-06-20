@@ -9,7 +9,7 @@ Hi, I'm Kjas Nguyen. I'm freshman at Hanoi Vocational College of Technology.
 
 ## Acknowledgements (；´Д｀)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,ps)](https://skillicons.dev)
 
 - [HTML, CSS (responsive): NFT Marketplace](https://nft-marketplace-sooty-one.vercel.app/)
 - [Javascript: Digital Clock (GTM +07:00)](https://digital-clock-kjasngs-projects.vercel.app/)
