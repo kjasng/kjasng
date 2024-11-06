@@ -11,7 +11,7 @@ Hi, I'm Kjas Nguyen. I'm freshman at Hanoi Vocational College of Technology.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,java,postman,figma,ps)](https://skillicons.dev)
 
-- [ReactJS, TailwindCSS, TS: PokéAPI]([https://nft-marketplace-sooty-one.vercel.app/](https://pokeapi.kjasng.com/))
+- [ReactJS, TailwindCSS, TS: PokéAPI](https://pokeapi.kjasng.com/)
 
 
 #### Thanks for reading guys! :3
